@@ -10,9 +10,16 @@ body {
 }
 
 h1 {
+  font-size: 100px;
   position: absolute;
   top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+.beer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
